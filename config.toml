@@ -1,0 +1,95 @@
+# BaseURL = "https://www.adhita.dev/"
+BaseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Shiro Kumo"
+theme = "castanet"
+canonifyurls = false
+buildFuture = false
+buildDrafts = false
+dataDir = "data"
+archetypedir = "archetypes"
+paginate = 9
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+	sponsor = "/:filename"
+	redirect = "/:filename"
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+ [[Menu.Main]]
+     name = "About"
+     identifier = "about"
+     url = "/about"
+ [[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+ [[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "/guest"
+ [[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
+ [[Menu.Main]]
+    name = "Books"
+    identifier = "books"
+    url = "/books"
+    parent = "resources"
+
+[[Menu.Main]]
+    name = "Podcasts"
+    identifier = "podcasts"
+    url = "/podcasts"
+    parent = "resources"
+[[Menu.Main]]
+    name = "Sponsor Shiro Kumo"
+    identifier = "sponsor"
+    url = "/sponsorship"
+
+[params]
+mainSections = ["episode"]
+site_theme = "grey"
+site_layout = "grid"
+enable_jumbo = "false"
+favicon = "favicon.ico"
+copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.adhita.dev)"
+spotify_subscribe = ""
+itunes_subscribe = ""
+android_subscribe = ""
+google_play_subscribe = ""
+stitcher_subscribe = ""
+pocketcasts_subscribe = ""
+mailchimp_subscribe = ""
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "Shiro Kumo is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
+media_prefix = ""
+  [params.feed]
+    feed_copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "There's always clouds in the Banana Stand" #no markdown or HTML
+    itunes_author = "Adhita Selvaraj" #no markdown or HTML
+    itunes_summary = "Shiro Kumo is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Adhita Selvaraj"
+    itunes_owner_email = "adhita94@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.adhita.dev/img/logo.png" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Software How-To"
+    itunes_second_sub_category = "Tech News"
+
+  [params.social]
+    github = "adhita"
+    twitter = "adhita"
+    twitter_domain = "adhita.dev" # This domain shows in twitter cards as "View on `twitter_domain`"
+    instagram = "adhitads"
+
+
+  [params.authors]
+    [params.authors.Ado]
+		name = ""
+		thumbnail = "img/ado-logo-150.png"
+		bio = ""
