@@ -1,6 +1,6 @@
 +++
 title = "contact us"
-description = "about this site"
+description = "Contact the producers"
 date = "2020-03-27"
 +++
 
