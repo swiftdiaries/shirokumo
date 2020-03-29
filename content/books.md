@@ -2,7 +2,7 @@
 title = "books"
 +++
 
-Here are some of my short stories:
+Short Stories:
 
-1. The Gate - [read here](https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/The_Gate.epub).
-1. Madras Minute - [read here](https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/Madras_Minute.epub).
+1. [The Gate](https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/The_Gate.epub).
+1. [Madras Minute](https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/Madras_Minute.epub).

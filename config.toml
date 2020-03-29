@@ -1,4 +1,4 @@
-BaseURL = "https://www.adhita.dev/"
+BaseURL = "https://www.shirokumo.page/"
 #BaseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Shiro Kumo"
@@ -38,7 +38,7 @@ paginate = 9
 [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
-    url = "/guest"
+    url = "/guests"
 
 [[Menu.Main]]
     name = "Books"
@@ -52,7 +52,7 @@ site_theme = "grey"
 site_layout = "grid"
 enable_jumbo = "false"
 favicon = "favicon.ico"
-copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.adhita.dev)"
+copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.shirokumo.page)"
 spotify_subscribe = ""
 itunes_subscribe = ""
 android_subscribe = ""
@@ -61,7 +61,7 @@ stitcher_subscribe = ""
 pocketcasts_subscribe = ""
 mailchimp_subscribe = ""
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Shiro Kumo is a podcast discussing short stories I've written."
+description = "Shiro Kumo is a podcast about simple, dull, boring lives and their challenges."
 media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/"
   [params.feed]
     feed_copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
@@ -81,7 +81,9 @@ media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokum
     instagram = "adhitads"
 
   [params.authors]
-    [params.authors.Ado]
-		name = ""
-		thumbnail = "img/ado-logo-150.png"
-		bio = ""
+    [params.authors.Adhita]
+      name = "Adhita Selvaraj"
+      thumbnail = "img/host/adhita.jpg"
+      bio = "Hey there!"
+      [params.authors.Adhita.social]
+        twitter = "adhitadselvaraj"

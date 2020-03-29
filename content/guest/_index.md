@@ -4,4 +4,4 @@ title = "Guests of Shiro Kumo"
 aliases = "/guests"
 +++
 
-Want to be a guest on the Shiro Kumo? Send an email!
+Want to be a guest on Shiro Kumo? [Send an email!](mailto:adhita94@gmail.com)
