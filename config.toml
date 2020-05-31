@@ -51,7 +51,7 @@ mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "grid"
 enable_jumbo = "false"
-favicon = "favicon.ico"
+favicon = "img/logos/logo.png"
 copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.shirokumo.page)"
 spotify_subscribe = ""
 itunes_subscribe = ""
@@ -61,19 +61,19 @@ stitcher_subscribe = ""
 pocketcasts_subscribe = ""
 mailchimp_subscribe = ""
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Shiro Kumo is a podcast about simple, dull, boring lives and their challenges."
+description = "Shiro Kumo is a podast exploring challenges and difficulties in the every day lives of ordinary people."
 media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/"
   [params.feed]
     feed_copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "There's always clouds in the Banana Stand" #no markdown or HTML
     itunes_author = "Adhita Selvaraj" #no markdown or HTML
-    itunes_summary = "Shiro Kumo is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_summary = "A podast exploring challenges and difficulties in the every day lives of ordinary people." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Adhita Selvaraj"
-    itunes_owner_email = "adhita94@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.adhita.dev/img/logo.png" #fqdn to the image art for your podcast
-    itunes_top_category = "Technology"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
+    itunes_owner_email = "adhita.selvaraj@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.shirokumo.page/img/episode/000_trail_path.jpg" #fqdn to the image art for your podcast
+    itunes_top_category = ""
+    itunes_first_sub_category = ""
+    itunes_second_sub_category = ""
 
   [params.social]
     twitter = "adhitadselvaraj"

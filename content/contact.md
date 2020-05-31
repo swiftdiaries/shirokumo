@@ -4,6 +4,8 @@ title = "contact"
 
 +++
 
-<p>Email: adhita94 [at] gmail [dot] com</p>
+<p>Email: adhita.selvaraj [at] gmail [dot] com</p>
 
-<p>Twitter: <a href = "http://twitter.com/adhitadeselvaraj">@adhitadselvaraj</a><p>
+<p>Twitter: <a href = "https://twitter.com/adhitadselvaraj">@adhitadselvaraj</a><p>
+
+<p>Instagram: <a href = "https://instagram.com/adhitads">@adhitads</a><p>

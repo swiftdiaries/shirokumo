@@ -1,8 +1,3 @@
-+++
-description = "about this site"
-title = "about"
-+++
-
 ## Introducing, Shiro Kumo - White Clouds
 
-This is a collection of podcasts.
+A podast exploring challenges and difficulties in the every day lives of ordinary people.

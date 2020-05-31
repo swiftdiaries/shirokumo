@@ -1,33 +1,27 @@
 +++
-Description = "Introducing Shiro Kumo - Episode 00"
-author = "Adhita"
+Description = "Introducing Shiro Kumo - Trailer"
+author = "adhita"
 categories = []
-date = "2020-03-29"
+date = "2020-05-31"
 episode = "4"
-episode_image = "img/episode/001_whitecloud.jpg"
+episode_image = "img/episode/000_trail_path.jpg"
 explicit = "no"
 guests = ["adhita", "", ""]
-images = ["img/episode/001_whitecloud.jpg"]
+images = ["img/episode/000_trail_path.jpg"]
 news_keywords = []
 podcast_duration = "15:00"
 podcast_file = "shiro-kumo-podcast-episode000.mp3"
 podcast_bytes = ""
-tags = []
+tags = ["intro", "adhita", "what is"]
 title = "Introducing Shiro Kumo"
 youtube = ""
 +++
 
 ## Transcript
 
-### The shared joys and pains of living through a pandemic
+<br>
+#### Shiro Kumo - Trailer
 
-Hello all, today I’m introducing a podcast called Shiro Kumo. It features one-on-one interviews with people who are students, engineers, artists, people going through a job search…People and the changes brought on to their daily lives and relationships. 
+What does casual sexism in the workplace look like? Have you ever faced mental health related challenges? What is it like being a first-graduate? What are the challenges and struggles associated with it?
 
-One thing that I noticed recently is that no matter who we are or what when last we might’ve talked, we tend to reach out and ask if people are doing ok, are they safe? A simple gesture to check, to see if you can listen or help out in some way. This is new shores for all of us. Even though privilege does define our stages of suffering and the differences in our classes brought out so vividly by the crisis. We are still human and this is Shiro Kumo where we try to see the humanity in all of us.
-
-Shiro Kumo. Shiro Kumo means ‘white cloud’ in japanese.
-
-Interferon.
-
-Not a podcaster.
-Shhhh.
+Hello and welcome to Shiro Kumo. This is Adhita and this podcast features one-on-one interviews where we explore all sorts of challenges and difficulties under the sun.
