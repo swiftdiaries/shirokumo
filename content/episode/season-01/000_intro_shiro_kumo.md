@@ -1,20 +1,17 @@
 +++
+title = "Introducing Shiro Kumo"
 Description = "Introducing Shiro Kumo - Trailer"
 author = "adhita"
-categories = []
-date = "2020-05-31"
-episode = "4"
-episode_image = "img/episode/000_trail_path.jpg"
-explicit = "no"
-guests = ["adhita", "", ""]
-images = ["img/episode/000_trail_path.jpg"]
-news_keywords = []
-podcast_duration = "15:00"
-podcast_file = "shiro-kumo-podcast-episode000.mp3"
-podcast_bytes = ""
-tags = ["intro", "adhita", "what is"]
-title = "Introducing Shiro Kumo"
-youtube = ""
+categories = ["Society & Culture", "Personal Journal", "Documentary"]
+date = "2020-07-16"
+episode = "0"
+episode_image = "img/logos/shiro_kumo_title.jpg"
+explicit = "yes"
+hosts = ["adhita"]
+guests = ["adhita"]
+images = ["img/logos/shiro_kumo_title.jpg"]
+podcast_file = "shiro-kumo-episode-000.mp3"
+tags = ["intro"]
 +++
 
 ## Transcript

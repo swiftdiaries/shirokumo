@@ -51,34 +51,36 @@ mainSections = ["episode"]
 site_theme = "grey"
 site_layout = "grid"
 enable_jumbo = "false"
-favicon = "img/logos/logo.png"
+about_logo = "img/logos/shiro_kumo_title_thumbnail.jpg"
+favicon = "img/logos/shiro_kumo_title_thumbnail.jpg"
 copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.shirokumo.page)"
 spotify_subscribe = ""
-itunes_subscribe = ""
-android_subscribe = ""
-google_play_subscribe = ""
-stitcher_subscribe = ""
-pocketcasts_subscribe = ""
-mailchimp_subscribe = ""
+#itunes_subscribe = ""
+#android_subscribe = ""
+#google_play_subscribe = ""
+#stitcher_subscribe = ""
+#pocketcasts_subscribe = ""
+mailchimp_subscribe = "shirokumo"
+substack_subscribe = "shirokumo"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Shiro Kumo is a podast exploring challenges and difficulties in the every day lives of ordinary people."
+description = "Shiro Kumo is an anthology on everyday conflicts in the lives of people."
 media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/"
   [params.feed]
     feed_copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
-    itunes_subtitle = "There's always clouds in the Banana Stand" #no markdown or HTML
+    itunes_subtitle = "What's your story?" #no markdown or HTML
     itunes_author = "Adhita Selvaraj" #no markdown or HTML
-    itunes_summary = "A podast exploring challenges and difficulties in the every day lives of ordinary people." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_summary = "Shiro Kumo is an anthology on everyday conflicts in the lives of people." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Adhita Selvaraj"
-    itunes_owner_email = "adhita.selvaraj@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.shirokumo.page/img/episode/000_trail_path.jpg" #fqdn to the image art for your podcast
-    itunes_top_category = ""
-    itunes_first_sub_category = ""
-    itunes_second_sub_category = ""
+    itunes_owner_email = "adhita94@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://www.shirokumo.page/img/logos/shiro_kumo_title.jpg" #fqdn to the image art for your podcast
+    itunes_top_category = "Society & Culture"
+    itunes_first_sub_category = "Personal Journals"
+    itunes_second_sub_category = "Documentary"
 
   [params.social]
-    twitter = "adhitadselvaraj"
-    twitter_domain = "" # This domain shows in twitter cards as "View on `twitter_domain`"
-    instagram = "adhitads"
+    twitter = "shirokumopod"
+    twitter_domain = "shirokumo.page" # This domain shows in twitter cards as "View on `twitter_domain`"
+    instagram = "shirokumopod"
 
   [params.authors]
     [params.authors.Adhita]
@@ -87,3 +89,4 @@ media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokum
       bio = "Hey there!"
       [params.authors.Adhita.social]
         twitter = "adhitadselvaraj"
+        instagram = "adhitads"
