@@ -2,6 +2,7 @@ name: Compress images
 on: 
   pull_request:
     paths:
+      - 'static/*'
       - '**.jpg'
       - '**.png'
       - '**.webp'
