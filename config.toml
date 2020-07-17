@@ -84,7 +84,7 @@ media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokum
   [params.authors]
     [params.authors.Adhita]
       name = "Adhita Selvaraj"
-      thumbnail = "img/host/adhita.jpg"
+      thumbnail = "https://www.shirokumo.page/img/logos/shiro_kumo_title_thumbnail.jpg"
       bio = "Hey there!"
       [params.authors.Adhita.social]
         twitter = "adhitadselvaraj"
