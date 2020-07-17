@@ -1,15 +1,5 @@
 name: Compress images
-on:
-  push:
-    paths:
-      - '**.jpg'
-      - '**.png'
-      - '**.webp' 
-  pull_request:
-    paths:
-      - '**.jpg'
-      - '**.png'
-      - '**.webp'
+on: [push, pull_request]
 
 jobs:
   build:
