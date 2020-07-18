@@ -14,12 +14,11 @@ podcast_file = "shiro-kumo-episode-000.mp3"
 tags = ["intro"]
 +++
 
-## Transcript
+#### Transcript
 
-<br>
-# Episode 000 - Introducing Shiro Kumo 
+##### Episode 000 - Introducing Shiro Kumo
 
-For more than a year, I’ve been asking myself a question for which I have no logical answer to. Let me give you some context to the question, imagine you’re like 5-6 years old and you’re in class. You get asked to write an essay or stand up and tell the rest of the class, what you want to be when you grow up and become an adult. An ambition, a profession whatever you want to call it. You hear a variety of answers - a doctor like my mom, a lawyer like a family friend, an astronaut. And yet when a woman reaches the age of 24, why is there is an automatic expectation that she should be a house wife? Go to cooking classes, learn how to clean toilets for a 28-30 year old cis-heterosexual man-child. This is the standard eventuality that is deemed as a success by society regardless of caste or class. This podcast kind of started with that question and eventually lead to me talking to people, asking these questions, hearing them voice their frustration at a society that has somehow lagged behind a progressive woman’s individuality. So I thought wow maybe this needs to be talked about more. I hope this podcast starts a conversation about difficult topics in households and families.
+For more than a year, I’ve been asking myself a question for which I have no logical answer to. Let me give you some context to the question, imagine you’re like 5-6 years old and you’re in class. You get asked to write an essay or stand up and tell the rest of the class, what you want to be when you grow up and become an adult. An ambition, a profession whatever you want to call it. You hear a variety of answers - a doctor like my mom, a lawyer like a family friend, an astronaut - sky's the limit, quite literally. And yet when a woman reaches the age of 24, why is there is an automatic expectation that she should become a house wife? I have never ever heard or read about a 6 year old who wants to a house wife. Yet as soon as you're about to get married your parents make you go to cooking classes, learn how to cook your yet-to-be husband's favorite dishes, learn how to clean toilets for a 28-30 year old cis-heterosexual man-child. This is the standard eventuality that is deemed as a quarter-life success by society regardless of caste or class. This podcast kind of started with that question and eventually lead to me talking to people, asking these questions, hearing them voice their frustration at a society that has somehow lagged behind a millenial woman’s individuality. So I thought wow maybe this needs to be talked about more. I hope this podcast starts a conversation about difficult topics in households and families.
 
 I’m Adhita and I’ll be your host for the podcast. And this is Shiro Kumo, an anthology on everyday conflicts in the lives of people. First season is titled “Systemic Oppression of Women”. This podcast is not an opinion piece but rather a platform for voices and individual experiences.
  
