@@ -72,6 +72,7 @@ media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokum
     itunes_owner_name = "Adhita Selvaraj"
     itunes_owner_email = "adhita94@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.shirokumo.page/img/logos/shiro_kumo_title.jpg" #fqdn to the image art for your podcast
+    itunes_explicit = "yes"
     itunes_top_category = "Society & Culture"
     itunes_first_sub_category = "Personal Journals"
     itunes_second_sub_category = "Documentary"
