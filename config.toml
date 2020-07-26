@@ -17,6 +17,11 @@ paginate = 9
 	sponsor = "/:filename"
 	redirect = "/:filename"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+
+
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
@@ -53,29 +58,28 @@ site_layout = "grid"
 enable_jumbo = "false"
 favicon = "img/logos/shiro_kumo_title_thumbnail.jpg"
 copyright_notice = "Copyright 2013-2020 [Shiro Kumo](https://www.shirokumo.page)"
-spotify_subscribe = ""
+#spotify_subscribe = ""
 #itunes_subscribe = ""
 #android_subscribe = ""
-#google_play_subscribe = ""
+google_play_subscribe = "https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc2hpcm9rdW1vLnBhZ2UvZXBpc29kZS9pbmRleC54bWw%3D"
 #stitcher_subscribe = ""
 #pocketcasts_subscribe = ""
-mailchimp_subscribe = "shirokumo"
-substack_subscribe = "shirokumo"
+#mailchimp_subscribe = "shirokumo"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Shiro Kumo is an anthology on everyday conflicts in the lives of people."
 media_prefix = "https://media.blubrry.com/shirokumo/content.blubrry.com/shirokumo/"
   [params.feed]
-    feed_copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2013-2020 Shiro Kumo" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "What's your story?" #no markdown or HTML
     itunes_author = "Adhita Selvaraj" #no markdown or HTML
     itunes_summary = "Shiro Kumo is an anthology on everyday conflicts in the lives of people." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Adhita Selvaraj"
     itunes_owner_email = "adhita94@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
     itunes_image = "https://www.shirokumo.page/img/logos/shiro_kumo_title.jpg" #fqdn to the image art for your podcast
-    itunes_explicit = "yes"
     itunes_top_category = "Society & Culture"
     itunes_first_sub_category = "Personal Journals"
     itunes_second_sub_category = "Documentary"
+    explicit = "yes"
 
   [params.social]
     twitter = "shirokumopod"
